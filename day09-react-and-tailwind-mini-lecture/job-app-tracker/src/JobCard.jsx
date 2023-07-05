@@ -1,7 +1,7 @@
 export default function JobCard({ job }) {
   // pull data from argument
   const {
-    image: { src, alt },
+    image: {src, alt },
     company,
     title,
     salary,
